@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/data-scientist-word-concepts-word-concepts-thin-line-vector-banner-data-scientist-word-concepts-word-concepts-thin-line-vector-187729306.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/data-scientist-word-concepts-word-concepts-thin-line-vector-banner-data-scientist-word-concepts-word-concepts-thin-line-vector-187729306.jpg)
 <h1 align="center">Hi 👋, I'm Sujit M Deokar</h1>
 <h3 align="center">Data Science, Machine Learning, Python, Spark, AWS, Deep Learning</h3>
 
