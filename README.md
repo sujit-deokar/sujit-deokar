@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure and PySpark**
 
-- 👯 I’m looking to collaborate on **Interested to collaborate on Healthcare Analytics projects, vision Analytics, NLP**
+- 👯 I’m looking to collaborate on **Healthcare Analytics projects, vision Analytics, NLP**
 
 - 🤝 I’m looking for help with **Anything on Deep Learning models**
 
